@@ -1,0 +1,23 @@
+.navbar{
+    background-color: aqua;
+}
+.menu{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+    width: 100%;
+    background-color: aqua;
+}
+   a{ text-transform: uppercase;
+    font-size: 18px;
+    color: rgb(5, 56, 77);
+    letter-spacing: 1px;
+    font-weight: bolder;
+    text-decoration: none;
+    padding: 10px;
+}
+
+a:hover{
+    color: brown;
+}   

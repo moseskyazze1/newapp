@@ -1,0 +1,40 @@
+.product{
+    border: 1px solid;
+    border-radius: 4px;
+    width: 200px;
+    height: 300px;
+    display: inline-block;
+    margin: 10px;
+}
+ 
+.product:hover{
+    border-color: aqua;
+    box-shadow: -1px 1px 4px 1px;
+}
+.product img {
+    width: 180px;
+    height: 200px;
+    border-radius: 4px;
+}
+
+.product h5 {
+    margin: 0;
+    font-size: 18px;
+    font-weight:500 ;
+}
+
+.product .total{
+    font-size: 18px;
+    color: tomato;
+    margin-right: 12px;
+}
+
+.product .controls{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.product .controls .qt-picker{
+    margin-right: 10px;
+}
