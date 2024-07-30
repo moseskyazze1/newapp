@@ -38,3 +38,7 @@
 .product .controls .qt-picker{
     margin-right: 10px;
 }
+
+.product i {
+    font-size: 18px;
+}

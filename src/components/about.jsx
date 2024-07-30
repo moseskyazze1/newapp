@@ -12,7 +12,7 @@ function About() {
       return (
         <div className="info">
           <p>Moss123@yahoo.com</p>
-          <p>4253457657</p>
+          <p>4253457925</p>
         </div>
       );
     } else {

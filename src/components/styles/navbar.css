@@ -10,7 +10,7 @@
     background-color: aqua;
 }
    a{ text-transform: uppercase;
-    font-size: 18px;
+    font-size: 25px;
     color: rgb(5, 56, 77);
     letter-spacing: 1px;
     font-weight: bolder;
@@ -21,3 +21,6 @@
 a:hover{
     color: brown;
 }   
+.navbar .btn-user{
+    margin-right: 12px;
+}
